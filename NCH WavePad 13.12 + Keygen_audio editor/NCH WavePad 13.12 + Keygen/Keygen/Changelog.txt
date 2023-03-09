@@ -1,0 +1,82 @@
+______                                                                          
+LEGEND                                                                          
+ииииии                                                                          
++ New Feature                                                                   
+- Removed Feature                                                               
+* Fixed or Improved Feature                                                     
+                                                                                
+_________                                                                       
+CHANGELOG                                                                       
+иииииииии                                                                       
+v1.9 (2021-10-02)                                                               
++ Added support for "PicoPDF PDF Editor" and "Spin 3D Mesh Converter"           
+                                                                                
+v1.8 (2021-02-24)                                                               
++ Added support for "Express Menu Maker Software".                              
++ "News & Announcements" option to check for the latest news about my site or   
+any other important announcement.                                               
+* Minor tweaks and improvements to the UI.                                      
+                                                                                
+v1.7 (2020-06-17)                                                               
++ Added support for "DeskFX Audio Effect Processor" and "Express Schedule       
+Employee Scheduling".                                                           
+- Removed "Use new format" checkbox (no longer needed).                         
+* Some minor improvements.                                                      
+                                                                                
+v1.6 (2019-10-29)                                                               
++ Added support for Express Animate.                                            
+                                                                                
+v1.5 (2019-04-19)                                                               
++ Added support for Reflect Customer Database.                                  
+                                                                                
+v1.4 (2019-03-28)                                                               
++ Added support for DrawPad Graphic Design Software.                            
++ Option to alternate between old and new reg code format (required for some    
+products of 2019 and later).                                                    
++ Keygen update check option.                                                   
+* Minor changes to the interface.                                               
+                                                                                
+v1.3 (2016-10-29)                                                               
++ Added support for:                                                            
+  - Crescendo Music Notation Editor                                             
+  - DreamPlan Home Design Software                                              
++ New button "Clear license" to delete existing license data in the registry for
+selected product (useful if you want to re-register the product with a different
+user information or reg code).                                                  
+* Code updated to support latest versions of available products.                
+* Some UI changes and minor improvements.                                       
+                                                                                
+v1.2 (2016-01-21)                                                               
++ Added support for 18 products (* = discontinued/outdated product):            
+  - AudioTime (*)                                                               
+  - BMS Business Music System (*)                                               
+  - Bolt PDF Printer                                                            
+  - BroadWave Audio Streaming Server                                            
+  - ClickCharts Diagram Flowchart Software                                      
+  - Express Dial Telephone Dialer (same as Express Talk)                        
+  - FileFort Backup Software                                                    
+  - FlashLynx YouTube Video Downloader (superseded by Debut Video Capture)      
+  - Language Coach (*)                                                          
+  - MEO Encryption Software                                                     
+  - Stamp ID3 Tag Editor                                                        
+  - TexTally (*)                                                                
+  - TimeChimes (*)                                                              
+  - TwelveKeys Music Transcription Software                                     
+  - Uplink Skype2Sip (*)                                                        
+  - Vemail (*)                                                                  
+  - Verbose Text to Speech                                                      
+  - Verity Parental Control Software                                            
+* UI modifications and some internal changes.                                   
+                                                                                
+v1.2.1 (2016-01-21)                                                             
++ Now you can specify a licensed user name (optional), for applications that    
+don't require this information. This name will appear in the "About ..." dialog 
+box and in the title bar of each product (thanks to XmYthZ for the suggestion). 
+* Support for "Express Dial Telephone Dialer" and "FlashLynx YouTube Video      
+Downloader".                                                                    
+                                                                                
+v1.1 (2015-07-18)                                                               
++ Added support for Express Talk.                                               
+                                                                                
+v1.0 (2015-07-17)                                                               
++ First release.                                                                
